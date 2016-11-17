@@ -17,8 +17,3 @@ Python 3.X mittels Anaconda installieren. Zusätzlich wird nur das pyaudio Paket
 
 Unter Linux:
 Python 3.X Installiernen und sämtliche benötigten Pakete (siehe imports am Anfang der Skripte) mit pip o.Ä. installieren.
-
-
-License
-
-A short snippet describing the license (MIT, Apache, etc.)
